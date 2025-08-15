@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "food-delivery",
+    "name": "Food Delivery",
     "slug": "food-delivery",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -37,6 +37,12 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "477fd48f-e301-4457-abc3-490c668c85b9"
+      }
     }
   }
 }
